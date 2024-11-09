@@ -5,6 +5,6 @@ lab 04 https://github.com/2303A51128/AIML-2303a51128/blob/main/lab%204.ipynb
 lab 05 https://github.com/2303A51128/AIML-2303a51128/blob/main/lab05.ipynb     
 lab 06 https://github.com/2303A51128/AIML-2303a51128/edit/main/Untitled10.ipynb             
 lab 07 https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled12.ipynb               
-lab 08 https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled8.ipynb 
-lab 09 https://github.com/2303A51128/AIML-2303a51128/blob/main/lab09.ipynb
+lab 08 https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled8.ipynb     
+lab 09 https://github.com/2303A51128/AIML-2303a51128/blob/main/lab09.ipynb     
 lab 10 https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled14.ipynb

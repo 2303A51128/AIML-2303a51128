@@ -7,4 +7,5 @@ lab 06 https://github.com/2303A51128/AIML-2303a51128/edit/main/Untitled10.ipynb
 lab 07 https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled12.ipynb               
 lab 08 https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled8.ipynb             
 lab 09 https://github.com/2303A51128/AIML-2303a51128/blob/main/lab09.ipynb            
-lab 10 https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled14.ipynb
+lab 10 https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled14.ipynb      
+ lab exam  https://github.com/2303A51128/AIML-2303a51128/blob/main/README.md     

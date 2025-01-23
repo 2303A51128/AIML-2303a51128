@@ -9,4 +9,4 @@ lab 08 https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled8.ipynb
 lab 09 https://github.com/2303A51128/AIML-2303a51128/blob/main/lab09.ipynb            
 lab 10 https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled14.ipynb      
  lab exam https://github.com/2303A51128/AIML-2303a51128/blob/main/lab_exam_.ipynb   
- datamining: https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled25.ipynb
+ ADM Lab-01: https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled25.ipynb

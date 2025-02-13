@@ -12,5 +12,6 @@ lab 10 https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled14.ipynb
  ADM Lab-01: https://github.com/2303A51128/AIML-2303a51128/blob/main/Untitled25.ipynb     
  ADM Lab-02: https://github.com/2303A51128/AIML-2303a51128/blob/main/ADM_lab_02.ipynb        
  ADM Lab-03: https://github.com/2303A51128/AIML-2303a51128/blob/main/ADM_lab_03.ipynb  
- ADM LAB-04https://github.com/2303A51128/AIML-2303a51128/blob/main/ADM_04.ipynb        
+ ADM LAB-04https://github.com/2303A51128/AIML-2303a51128/blob/main/ADM_04.ipynb      
+ ADM Lab-05 https://github.com/2303A51128/AIML-2303a51128/blob/main/ADM_Lab_05.ipynb
  
